@@ -1,0 +1,10 @@
+Compiling commands
+
+Compile using: make
+
+Executing commands
+Run Part 1 using: ./part1_final.o
+Run Part 2 and 3 using: ./p2.o
+Run Part 5 using: ./p5.o
+
+Clean: make clean

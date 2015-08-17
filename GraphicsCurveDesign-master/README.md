@@ -1,0 +1,2 @@
+# GraphicsCurveDesign
+Blending functions ; de Casteljau’s algorithm ; Bezier curves through evaluators (glMap1f and glEvalCoord1f) ; Subdivision ; Bezier surface patch using glMap2f ; the advantages and disadvantages each approach : 2/4 (Computational effort and accuracy of blending functions and De casteljau's algorithm.) c) Include images of at least two different configurations of control points and show how each method renders the curve:
